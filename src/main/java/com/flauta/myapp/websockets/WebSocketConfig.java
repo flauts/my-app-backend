@@ -1,4 +1,4 @@
-package com.flauta.myapp.WebSockets;
+package com.flauta.myapp.websockets;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.socket.config.annotation.EnableWebSocket;

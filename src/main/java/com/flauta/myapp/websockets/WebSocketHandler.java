@@ -1,4 +1,4 @@
-package com.flauta.myapp.WebSockets;
+package com.flauta.myapp.websockets;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;
